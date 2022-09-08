@@ -1,6 +1,6 @@
 # Prework-study-guide
 
-## a study guide for course prework
+## A study guide for course prework
 
 This guide was made to introduce the ideas of HTML, CSS, JavaScript, and GIT tools. It also contains notes on these subjects to study from.
 
